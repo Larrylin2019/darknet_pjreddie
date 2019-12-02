@@ -1,5 +1,5 @@
 classes= 10
-train  = /darknetroot/data/itn/itn_train.unix
-valid  = /darknetroot/data/itn/itn_val.unix
-names  = /darknetroot/data/itn/itn.names
-backup = /darknetroot/backup
+train  = /content/darknet_pjreddie/data/itn/itn_train.unix
+valid  = /content/darknet_pjreddie/data/itn/itn_val.unix
+names  = /content/darknet_pjreddie/data/itn/itn.names
+backup = /content/darknet_pjreddie/backup
