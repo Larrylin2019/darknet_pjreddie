@@ -1,0 +1,5 @@
+classes= 10
+train  = /home/binhdv92/darknet_pjreddie/data/itn/itn_train_laptop.unix
+valid  = /home/binhdv92/darknet_pjreddie/data/itn/itn_val_laptop.unix
+names  = /home/binhdv92/darknet_pjreddie/data/itn/itn.names
+backup = /home/binhdv92/darknet_pjreddie/backup
